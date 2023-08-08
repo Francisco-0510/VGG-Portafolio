@@ -240,9 +240,16 @@ ul {
 }
 .detail-proyecto h5{
     font-size: 1.5em;
-    font-weight: 200;
+    font-weight: 400;
     text-transform: capitalize;
     letter-spacing: 1px;
+}
+.modal-content{
+    background-color: #121519;
+}
+.card-proyecto img{
+    width: 30rem;
+    max-height: 15rem;
 }
 
 
