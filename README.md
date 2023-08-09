@@ -57,7 +57,7 @@ LINKS PROYECTOS
     - Link Figma: https://www.figma.com/community/file/1165464149403530205
     - Link Repositorio Gitlab Mastache: https://gitlab.com/carlosmastache301/bitvideojuegos
     - Link Repositorio Propio: FALTA
-    - Link Documentación: FALTA
+    - Link Documentación: https://docs.google.com/document/d/1ui6Xb1R-GbaV40Baqw4BVVXiTadPznEAow7lgh4bp9g/edit?usp=sharing
     - Link Linkendin: FALTA
 
 - Diseño Página Web: Foro Mujer es Mezcal
