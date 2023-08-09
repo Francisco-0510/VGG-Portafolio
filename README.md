@@ -1,6 +1,40 @@
 # VGG-Portafolio
  Portafolio Personal
 
+## header H2
+### header H3
+#### header H4
+##### header H5
+###### header H6
+
+## Table of contents
+* [General info](#general-info)
+* [Better Comments](#better-comments)
+* [Technologies](#technologies)
+
+## General info
+This project is simple Lorem ipsum dolor generator.
+
+## Better Comments
+Categorise annotations into:
+* Alerts         <!-- //!This is an alert -->
+* Queries        <!-- = This is a Query -->
+* TODOs          <!-- //TODO -->
+* Highlights     <!-- * This is Highlighted -->
+* Comments out code
+* Etc
+
+
+## Technologies
+Project is created with:
+* Lorem version: 12.3
+* Ipsum version: 2.33
+* Ament library version: 999
+	
+
+
+
+
 LINKS PROYECTOS
 
 - Portafolio Personal

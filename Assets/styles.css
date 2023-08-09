@@ -93,11 +93,7 @@ body{
     text-transform: uppercase;
     text-decoration: none;
 }
-.btn-link-proyecto{
-    color: rgba(255, 255, 255, 0.7);
-    font-size: 1em;
-    text-transform: uppercase;
-}
+
 /* ESTILOS SECTION CARD */
 .bg-grey-dark{
     background-color: var(--vg-grey-dark-bg);
@@ -233,24 +229,73 @@ ul {
   transition-duration: 0.2s, 0.2s, 0.2s, 0.2s;
   transition-timing-function: ease-in-out, ease-in-out, ease-in-out, ease-in-out;
 }
+.card-hover{
+    padding-left: .75rem;
+    padding-right: .75rem;
+    max-width: 100%;
+    text-align:center;
+    width: 21.1375rem;
+    margin-bottom: 3rem;
+}
+.card-hover img{
+    min-width: 100%;
+    height: 188px;
+}
+.card-hover:hover img{
+    box-shadow: rgba(11, 15, 25, 0.06) 0px 4.4px 12px -1px, rgba(11, 15, 25, 0.03) 0px 2px 6.4px -1px;
+}
+.card-hover h3{
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    margin-bottom: 0px;
+    margin-top: 1.5rem;
+    text-align: center;
+}
+.card-hover:hover a{
+    color: var(--vg-blue-color);
+}
 
-.detail-proyecto span{
-    font-size: .8em;
-    font-weight: 600;
-}
-.detail-proyecto h5{
-    font-size: 1.5em;
-    font-weight: 400;
-    text-transform: capitalize;
-    letter-spacing: 1px;
-}
+/* ESTILOS PARA MODAL DE PROYECTO */
 .modal-content{
-    background-color: #121519;
+    background-color: #222;
 }
-.card-proyecto img{
-    width: 30rem;
-    max-height: 15rem;
+.col-link-docs{
+    line-height: 1.6rem;
+    margin-top: .5rem;
+    padding-left: .75rem;
+    padding-right: .75rem;
+    text-align: start;
+    width: 12.3125rem;
+    max-width: 100%;
 }
+.icon-link{
+line-height: 1.6125rem;
+padding-left: 1.5rem;
+min-height: 1.6rem;
+display: block;
+text-align: start;
+}
+.btn-link-proyecto{
+    font-size: .85rem;
+    display: inline-block;
+    text-align: start;
+    font-style: italic;
+}
+.btn-link-proyecto:hover{
+    font-weight:500 ;
+    color: rgb(237, 203, 80);
+}
+.btn-link-proyecto i{
+    line-height: 1.6rem;
+    margin-bottom: 0px;
+    margin-left: -1.5rem;
+    margin-right: 0px;
+    text-align: start;
+    vertical-align: top;
+    width: 16px;
+}
+
+
 
 
 figure i{
